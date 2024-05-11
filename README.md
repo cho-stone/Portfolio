@@ -10,7 +10,7 @@ C++와 Java와 같은 객체지향언어에 익숙하며 팀 프로젝트 경험
 >   
 > 기획 및 제작: 조석진, 배광호
 >   
-> 장르:  비주얼 노벨
+> 장르: 비주얼 노벨, 로맨스, 청춘
 >   
 > 제작기간: 2018.
 >   
@@ -19,13 +19,14 @@ C++와 Java와 같은 객체지향언어에 익숙하며 팀 프로젝트 경험
 ## 🛠 언어 및 도구
 TyranoBuilder Visual Novel Studio
 ## 🔗링크
-https://github.com/cho-stone/OPC  
+https://github.com/cho-stone/OPC
+<br><br><br>
 ## 2. 📱 약속베팅
 > 프로젝트: 약속베팅
 >
 > 기획 및 제작: 조석진, 배광호
 >
-> 장르: 엔터테인먼트
+> 장르: 엔터테인먼트, 위치추적, 약속
 >
 > 제작기간: 2023.06.20 ~ 2024.03.27
 >
@@ -34,3 +35,18 @@ https://github.com/cho-stone/OPC
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ## 🔗링크
 https://github.com/cho-stone/Promise-bet 
+<br><br><br>
+## 3. 🎮 D-Rhythm
+> 프로젝트: Opportunity Cost
+>   
+> 기획 및 제작: 조석진
+>   
+> 장르: 플랫포머, 리듬, 액션, 사이버 펑크
+>   
+> 제작기간: 2024.01.5 ~
+>
+> 내용:
+## 🛠 언어 및 도구
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+## 🔗링크
+https://github.com/cho-stone/flatformGame_D-rhythm
