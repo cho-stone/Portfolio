@@ -45,9 +45,10 @@ https://github.com/cho-stone/Promise-bet
 >   
 > 장르: 플랫포머, 리듬, 액션, 사이버 펑크
 >   
-> 제작기간: 2024.01.5 ~
+> 제작기간: 2024.01.5 ~ ing
 >
-> 내용:
+> 내용: 21xx 년 모든 것들이 기계화된 세계,  
+> 갑자기 발생한 모종의 바이러스로 인해 공격적으로 변해버린 AI 로봇에게서 살아남으세요!
 ## 🛠 언어 및 도구
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ## 🔗링크
