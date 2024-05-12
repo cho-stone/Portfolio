@@ -21,9 +21,9 @@ C++와 Java와 같은 객체지향언어에 익숙하며 팀 프로젝트 경험
 ## 🔗링크
 https://github.com/cho-stone/OPC
 <br><br>
-## 2. 📱 약속베팅
+## 2. 📱 약속 베팅
 ![1234](https://github.com/cho-stone/Portfolio/assets/74195857/def44c79-acb5-4c7c-9b24-a94960c12783)
-> 프로젝트: 약속베팅
+> 프로젝트: 약속 베팅
 >
 > 기획 및 제작: 조석진, 배광호
 >
