@@ -39,7 +39,7 @@ https://github.com/cho-stone/Promise-bet
 <br><br>
 ## 3. 🎮 D-Rhythm
 ![12345](https://github.com/cho-stone/Portfolio/assets/74195857/e5ea2478-cc95-4dca-8c25-3e345383cb98)
-> 프로젝트: Opportunity Cost
+> 프로젝트: D-Rhythm
 >   
 > 기획 및 제작: 조석진
 >   
