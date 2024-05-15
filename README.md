@@ -92,7 +92,8 @@ https://github.com/cho-stone/Promise-bet
 ## ⚙ 담당한 기능
 1인 개발
 ## 💡 배운 점
-추후 작성
+* 1인 개발이 엄청 어렵다는 것을 배우고 있습니다...
+개발중입니다.
 ## 🔗링크
 https://github.com/cho-stone/flatformGame_D-rhythm
 <br><br>
