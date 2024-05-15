@@ -88,6 +88,10 @@ https://github.com/cho-stone/Promise-bet
 > 갑자기 발생한 모종의 바이러스로 인해 공격적으로 변해버린 AI 로봇에게서 살아남으세요!
 ## 🛠 언어 및 도구
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+## ⚙ 담당한 기능
+1인 개발
+## 💡 배운 점
+추후 작성
 ## 🔗링크
 https://github.com/cho-stone/flatformGame_D-rhythm
 <br><br>
