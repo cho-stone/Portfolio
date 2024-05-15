@@ -18,6 +18,10 @@ C++와 Java와 같은 객체지향언어에 익숙하며 팀 프로젝트 경험
 > 여러 선택지를 직접 선택하여 주인공 '은우'가 꿈을 이룰 수 있게 도와주세요!
 ## 🛠 언어 및 도구
 [TyranoBuilder Visual Novel Studio](https://tyranobuilder.com/)
+## ⚙ 담당한 기능
+* 음향 / 효과음 수집
+* 스토리 구성
+* 프로그래밍
 ## 🔗링크
 https://github.com/cho-stone/OPC
 <br><br>
