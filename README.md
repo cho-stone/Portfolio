@@ -31,7 +31,7 @@ https://github.com/cho-stone/OPC
 >
 > 제작기간: 2023.06.20 ~ 2024.03.27
 >
-> 내용: 어플 내의 포인트를 베팅하여 친구와 약속을 잡아 승부를 겨루세요!
+> 내용: 어플 내의 코인을 베팅하여 친구와 약속을 잡아 승부를 겨루세요!
 ## 🛠 언어 및 도구
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black">
 ## 🔗링크
