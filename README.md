@@ -21,6 +21,7 @@ C++와 Java와 같은 객체지향언어에 익숙하며 팀 프로젝트 경험
 ## 🔗링크
 https://github.com/cho-stone/OPC
 <br><br>
+
 ## 2. 📱 약속 베팅
 ![1234](https://github.com/cho-stone/Portfolio/assets/74195857/def44c79-acb5-4c7c-9b24-a94960c12783)
 > 프로젝트: 약속 베팅
@@ -37,6 +38,7 @@ https://github.com/cho-stone/OPC
 ## 🔗링크
 https://github.com/cho-stone/Promise-bet 
 <br><br>
+
 ## 3. 🎮 D-Rhythm
 ![12345](https://github.com/cho-stone/Portfolio/assets/74195857/e5ea2478-cc95-4dca-8c25-3e345383cb98)
 > 프로젝트: D-Rhythm
@@ -54,6 +56,7 @@ https://github.com/cho-stone/Promise-bet
 ## 🔗링크
 https://github.com/cho-stone/flatformGame_D-rhythm
 <br><br>
+
 ## 📞 Contact
 * 이메일: cba64511@gmail.com
 * 깃허브: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cho-stone)
